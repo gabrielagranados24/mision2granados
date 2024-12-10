@@ -1,0 +1,10 @@
+.principal{
+    background-color: rgb(113, 17, 126);
+}
+.secundaria{
+    background-color: blue;
+}
+.oculto{
+    display: none;
+}
+
